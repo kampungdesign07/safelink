@@ -19,13 +19,18 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*5)+ 1);
+var x=Math.floor((Math.random()*11)+ 1);
 var xxx=null;
 if(x=="1"){xxx="/2019/04/5-functional-areas-that-erp-system-can.html"}
 if(x=="2"){xxx="/2019/04/5-common-erp-implementation-mistakes.html"}
 if(x=="3"){xxx="/2019/04/7-tips-for-developing-erp-business-case.html"}
 if(x=="4"){xxx="/2019/04/6-tips-for-global-erp-implementations.html"}
-if(x=="5"){xxx="/2019/04/6-expected-benefits-of-center-for.html"}a_to_ve[i].href="http://www.kampungdzgn.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2019/04/6-expected-benefits-of-center-for.html"}
+if(x=="6"){xxx="/2019/05/6-erp-selection-criteria.html"}
+if(x=="7"){xxx="/2019/05/5-benefits-of-erp-software-for.html"}
+if(x=="8"){xxx="/2019/05/5-ways-erp-system-can-improve-customer.html"}
+if(x=="9"){xxx="/2019/05/5-common-erp-implementation-error-and.html"}
+if(x=="10"){xxx="/2019/05/tips-care-for-developing-erp-business.html"}a_to_ve[i].href="http://www.kampungdzgn.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
